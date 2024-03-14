@@ -1,5 +1,4 @@
-SDL game for= advanced programming
-Members:
-1. Nguyen Huu Hai Dang
-2. Pham Huy Hieu
-3. Nguyen Duc Manh
+# Dino-run
+- Bài tập lớn INT2215-24-VNU
+- Họ và tên: Hoàng Mạnh Hùng
+- Mã số sinh viên: 21020518
